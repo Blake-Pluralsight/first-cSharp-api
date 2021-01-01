@@ -3,7 +3,7 @@
   <MonoDevelop.Ide.Workbench ActiveDocument="city.API/Startup.cs">
     <Files>
       <File FileName="city.API/CitiesDataStore.cs" Line="58" Column="23" />
-      <File FileName="city.API/Controllers/PointsOfInterestController.cs" Line="8" Column="1" />
+      <File FileName="city.API/Controllers/PointsOfInterestController.cs" />
       <File FileName="city.API/Models/PointsOfInterestDto.cs" />
       <File FileName="city.API/Models/PointOfInterestForUpdateDto.cs" />
       <File FileName="city.API/Startup.cs" Line="48" Column="26" NotebookId="1" />

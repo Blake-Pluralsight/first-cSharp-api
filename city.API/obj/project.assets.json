@@ -6395,7 +6395,7 @@
       "outputPath": "/Users/blakesmac/codingProjects/pluralsight/c#/firstAPI/city.API/city.API/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/blakesmac/.nuget/NuGet/NuGet.Config"
+        "/Users/blakesmac/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
