@@ -1,5 +1,6 @@
 using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Hosting;
@@ -23,6 +24,7 @@ namespace city.API
               .Build();
 
             host.Run();
+
         }
 
         public static IHostBuilder CreateHostBuilder(string[] args) =>
