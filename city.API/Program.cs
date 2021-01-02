@@ -25,6 +25,7 @@ namespace city.API
 
             host.Run();
 
+
         }
 
         public static IHostBuilder CreateHostBuilder(string[] args) =>
